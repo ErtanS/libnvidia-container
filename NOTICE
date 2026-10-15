@@ -1,7 +1,7 @@
 Copyright (c) 2017-2018, NVIDIA CORPORATION. All rights reserved.
 
-This software is licensed under the terms of the "BSD 3-clause" license
-For details, refer to the LICENSE file located alongside this notice.
+This software is licensed under the terms of the "Apache-2.0" license.
+See the [LICENSE](https://github.com/NVIDIA/libnvidia-container/blob/main/LICENSE) file for more details.
 
 If this program is being compiled and dynamically linked against libelf from the
 elfutils package (usually characterized by the definition of the macro `WITH_LIBELF'),
